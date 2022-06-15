@@ -7,8 +7,13 @@
   }
   .Introduction h2 {
     text-align: left;
+    font-size: 40px;
   }
   .Introduction h1 {
     text-align: left;
     padding-bottom: 10px;
+    font-size: 60px;
+  }
+  .Introduction .introduction-rowTwo {
+    margin-top: 150px;
   }
