@@ -10,7 +10,7 @@ export default function Hero() {
       <div className="container">
         <div className="row">
           <div className="col">
-            <img src={vegetableImage} alt="" />
+            <img src={vegetableImage} alt="" className="vegetableImage" />
           </div>
           <div className="col">
             <h1>Swiss seasonality calender</h1>
