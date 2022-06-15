@@ -1,13 +1,14 @@
-.Hero {
+.Introduction {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
   }
-  .Hero h1 {
-    font-size: 55px;
-    line-height: 120px;
-    letter-spacing: 0.045em;
-    color: black;
+  .Introduction h2 {
+    text-align: left;
+  }
+  .Introduction h1 {
+    text-align: left;
+    padding-bottom: 10px;
   }
