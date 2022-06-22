@@ -7,7 +7,13 @@ export default function CurrentSeason() {
     <div>
       <h1>Produce available in June</h1>
       <div className="container">
-        <div className="row">
+        <div className="row foodCardRow">
+          <div className="col"><FoodCard /></div>
+          <div className="col"><FoodCard /></div>
+          <div className="col"><FoodCard /></div>
+          <div className="col"><FoodCard /></div>
+        </div>
+        <div className="row foodCardRow">
           <div className="col"><FoodCard /></div>
           <div className="col"><FoodCard /></div>
           <div className="col"><FoodCard /></div>

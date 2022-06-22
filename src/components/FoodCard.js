@@ -20,7 +20,7 @@ export default function FoodCard() {
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-          Strawberry
+            Strawberry
           </Typography>
           <Typography variant="body2" color="text.secondary">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
